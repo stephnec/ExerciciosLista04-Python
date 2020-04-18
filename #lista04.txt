@@ -1,0 +1,94 @@
+1) A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas obedece aos pesos a
+seguir:
+	Trabalho de Laboratório - peso 2
+	    Avaliação Semestral - peso 3
+	            Exame final - peso 5
+
+	Faça um programa em Python que receba as três notas, calcule e mostre a média ponderada e o conceito conforme tabela:
+	              Média Ponderada
+		de 8,0 a 10,0 - Conceito A
+		de 7,0 a 7,9  - Conceito B
+		de 6,0 a 6,9  - Conceito C
+		de 5,0 a 5,9  - Conceito D
+		de 0,0 a 4,9  - Conceito E
+
+
+2) Faça um programa em Python que receba dois números inteiros e mostre na tela o maior número digitado.
+
+3) Escreva um programa em Python que receba 3 números reais e mostre-os na tela em ordem decrescente. Considere que o usuário digitará 3 números
+diferentes.
+
+
+4) Faça um programa em Python que receba do usuário três números inteiros e mostre-os na tela em ordem crescente. Caso o usuário digite três números iguais, mostrar na tela a informação: OS TRÊS NÚMEROS DIGITADOS SÃO IGUAIS.
+
+
+5) Escreva um programa em Python que solicite ao usuário 3 (três) números inteiros e retorne se os números foram ou não foram digitados em ordem crescente.
+	Exemplo 1:
+		Digite 3 (três) números inteiros:
+		45
+		65
+		44
+		Os números não foram digitados em ordem crescente.
+
+	Exemplo 2:
+		Digite 3 (três) números inteiros:
+		44
+		45
+		65
+		números foram digitados em ordem crescente.
+
+
+6) Faça um programa em Python que solicite ao usuário um número inteiro e retorne se é par ou ímpar.
+
+
+7) Faça um programa em Python que solicite ao usuário um número inteiro e retorne se é múltiplo de 5 e de 10 ao mesmo tempo.
+
+
+8) Escreva um programa em Python que receba dois números reais. Verifique se a soma dos números digitados é maior que 10 e mostre na tela:
+
+ - Se a soma for maior que 10, mostrar na tela: Número maior que 10.
+ - Se a soma for menor ou igual a 10, mostrar na tela: Número menor ou igual a 10.
+
+
+9) Faça um algoritmo em Python para ler dois números inteiros e informar se estes números são iguais ou diferentes.
+
+
+10) Faça um algoritmo em Python para ler dois números inteiros (num1 e num2) e informar se num1 é divisível por num2.
+
+
+11) Faça um algoritmo em Python para ler dois números inteiros e mostrar na tela o maior.
+
+
+12) Elabore um programa em Python para testar se uma senha digitada pelo usuário é igual a 1214. Se a senha estiver correta mostre na tela: "Acesso permitido", do contrário emita a mensagem: "Você não tem acesso ao sistema".
+
+
+13) Elabore um programa em Python para testar se uma senha digitada pelo usuário é igual a FIAP1TDS. Se a senha estiver correta mostre na tela: "Acesso permitido", do contrário emita a mensagem: "Você não tem acesso ao sistema".
+
+
+14) Faça um algoritmo em Python para ler três valores reais e informar se estes podem ou não formar os lados de um triângulo e qual tipo de triângulo seria:
+equilátero, isósceles ou escaleno.
+
+
+15) Faça um algoritmo em Python para ler o nome, as três notas e o número de faltas de um aluno e escrever qual a sua situação final: 
+
+	-> Aprovado, Reprovado por Falta ou Reprovado por Média <- 
+
+	. A média para aprovação é 7,0 e o limite de faltas é 25% do total de aulas. 
+	. O número de aulas ministradas no semestre foi 80. 
+	. A reprovação por falta sobrepõe a reprovação por Média.
+
+
+16) Elabore um algoritmo em Python que indique se um número digitado está compreendido entre 0 e 30 ou entre 40 e 79 ou fora dos limites estabelecidos.
+
+
+17) Um comerciante comprou um produto e quer vendê-lo com um lucro de 45% se o valor da compra for menor que R$ 20,00; caso contrário, o lucro será de 30%. Elabore um algoritmo em Python que leia o valor do produto e mostre na tela o valor de venda para o produto.
+
+
+18) Faça um programa em Python que mostre o menu de opções a seguir:
+
+	    Menu de Opções
+	1. Somar dois números
+	2. Raiz quadrada de um número
+	Digite a opção desejada:
+
+Receba a opção do usuário e os dados necessários para executar cada operação.
